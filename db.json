@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
@@ -46,7 +46,36 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 5
+    },
+    {
+      "name": "Barbie",
+      "image": "https://wwd.com/wp-content/uploads/2023/06/MEGA989664_002.jpg?crop=0px%2C404px%2C3600px%2C2015px&resize=1000%2C563",
+      "id": 11,
+      "likes": 12
+    },
+    {
+      "name": "Ralph",
+      "image": "https://static.wikia.nocookie.net/wreckitralph/images/d/dc/Ralph.png/revision/latest?cb=20161113154352",
+      "id": 12
+    },
+    {
+      "name": "Bob",
+      "image": "https://discourse.disneyheroesgame.com/uploads/default/original/2X/9/9aed68a304bfa5d106df8bd2ba1dab1005bcfb74.png",
+      "id": 13,
+      "likes": 5
+    },
+    {
+      "name": "Gene",
+      "image": "https://static.miraheze.org/loathsomecharacterswiki/5/52/Penthouse.png",
+      "id": 14,
+      "likes": null
+    },
+    {
+      "name": "Cinderella",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Cinderella_%28Disney_character%29.png",
+      "id": 15,
+      "likes": 2
     }
   ]
 }
